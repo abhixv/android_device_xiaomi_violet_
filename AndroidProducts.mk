@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_violet.mk
+    $(LOCAL_DIR)/nezuko_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_violet-userdebug \
-    aosp_violet-user \
-    aosp_violet-eng
+    nezuko_violet-userdebug \
+    nezuko_violet-user \
+    nezuko_violet-eng
